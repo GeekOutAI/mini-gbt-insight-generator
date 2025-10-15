@@ -1,0 +1,13 @@
+﻿streamlit>=1.38
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+transformers>=4.43
+torch>=2.2
+sentencepiece>=0.1.99
+keybert>=0.8.5
+yake>=0.4.8
+umap-learn>=0.5.5
+hdbscan>=0.8.36
+python-pptx>=0.6.23
+openai>=1.37.1
