@@ -51,10 +51,10 @@ Tech Stack
 	| **Exports**      | CSV download, summary text             |
 
 Future Enhancements
-	 Streamlit Cloud deployment with public demo
-	 Multi-language sentiment models
-	 Interactive clustering visualization
-	 GPT-generated “Pain-Points → Actions” insights
+	|Streamlit Cloud deployment with public demo
+	|Multi-language sentiment models	
+	|Interactive clustering visualization
+	|GPT-generated “Pain-Points → Actions” insights
 
 License
 	MIT © 2025 Amy McCall (GeekOutAI)
