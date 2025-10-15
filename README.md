@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Mini-GPT Customer Insight Generator Banner" width="100%">
+</p>
+
+# 🧠 Mini-GPT Customer Insight Generator
+
 Quickstart
 
 	git clone https://github.com/GeekOutAI/mini-gbt-insight-generator.git
