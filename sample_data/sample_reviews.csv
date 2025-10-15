@@ -1,21 +1,21 @@
 id,channel,date,comment
-r1000,Email,2025-06-01,"Love the new dashboard—clean and fast. Would like dark mode though."
-r1001,Support,2025-06-02,"App keeps crashing when I export. Please fix ASAP."
-r1002,Support,2025-06-03,"Support resolved my ticket in under an hour. Great experience!"
-r1003,In-App,2025-06-04,"Search results are irrelevant most of the time. Hard to find what I need."
-r1004,In-App,2025-06-05,"Mobile app loads slow on startup but once inside it is okay."
-r1005,In-App,2025-06-06,"Checkout flow was smooth. Clear guidance and fewer steps than before."
-r1006,Email,2025-06-07,"I can't reset my password—link expired twice."
-r1007,In-App,2025-06-08,"Notifications are too frequent and not relevant."
-r1008,Survey,2025-06-09,"Data refresh times improved significantly since last release—thank you!"
-r1009,In-App,2025-06-10,"I wish I could filter by team and date in the analytics view."
-r1010,In-App,2025-06-11,"The UI is cluttered on small screens."
-r1011,Email,2025-06-12,"Fantastic release notes—made it easy to adopt the changes."
-r1012,Email,2025-06-13,"Billing page is confusing. Not sure what plan I'm on."
-r1013,In-App,2025-06-14,"SSO worked on desktop but not on mobile."
-r1014,In-App,2025-06-15,"Exported CSV columns are misaligned."
-r1015,Survey,2025-06-16,"The API docs are much better, but still missing pagination examples."
-r1016,Survey,2025-06-17,"Love the product! Keep it up."
-r1017,Support,2025-06-18,"Why did you remove the old reports? The new ones don't have trend lines."
-r1018,Support,2025-06-19,"Chat support felt scripted and didn't answer my specific question."
-r1019,In-App,2025-06-20,"Performance is night and day better—pages load instantly now."
+r1000,Email,2025-06-01,Love the new dashboard—clean and fast. Would like dark mode though.
+r1001,Support,2025-06-02,App keeps crashing when I export. Please fix ASAP.
+r1002,Support,2025-06-03,Support resolved my ticket in under an hour. Great experience!
+r1003,In-App,2025-06-04,Search results are irrelevant most of the time. Hard to find what I need.
+r1004,In-App,2025-06-05,Mobile app loads slow on startup but once inside it is okay.
+r1005,In-App,2025-06-06,Checkout flow was smooth. Clear guidance and fewer steps than before.
+r1006,Email,2025-06-07,I can't reset my password—link expired twice.
+r1007,In-App,2025-06-08,Notifications are too frequent and not relevant.
+r1008,Survey,2025-06-09,Data refresh times improved significantly since last release—thank you!
+r1009,In-App,2025-06-10,I wish I could filter by team and date in the analytics view.
+r1010,In-App,2025-06-11,The UI is cluttered on small screens.
+r1011,Email,2025-06-12,Fantastic release notes—made it easy to adopt the changes.
+r1012,Email,2025-06-13,Billing page is confusing. Not sure what plan I'm on.
+r1013,In-App,2025-06-14,SSO worked on desktop but not on mobile.
+r1014,In-App,2025-06-15,Exported CSV columns are misaligned.
+r1015,Survey,2025-06-16,The API docs are much better, but still missing pagination examples.
+r1016,Survey,2025-06-17,Love the product! Keep it up.
+r1017,Support,2025-06-18,Why did you remove the old reports? The new ones don't have trend lines.
+r1018,Support,2025-06-19,Chat support felt scripted and didn't answer my specific question.
+r1019,In-App,2025-06-20,Performance is night and day better—pages load instantly now.
